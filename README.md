@@ -23,7 +23,7 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
 
 
 
-![snake gif](https://github.com/crisly/crisly/blob/output/github-contribution-grid-snake.svg)
+
    
           
           
