@@ -17,8 +17,10 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
 <div style="display:inline_blake"><br/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Logo C" style="width: 50px; height: 40px;">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Logo Python" style="width: 50px; height: 40px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  alt="Logo Python" style="width: 50px; height: 40px;" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="Logo Python" style="width: 50px; height: 40px;"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="Logo Python" style="width: 50px; height: 40px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Logo Python" style="width: 50px; height: 40px;" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  alt="Logo html" style="width: 50px; height: 40px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="Logo jupyter" style="width: 50px; height: 40px;"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="Logo javascript" style="width: 50px; height: 40px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Logo css" style="width: 50px; height: 40px;" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo Git" style="width: 50px; height: 40px;" >
+          
           
