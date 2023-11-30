@@ -1,6 +1,6 @@
 ### Olá Sou Crisly👋
 
-🌱 Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
+Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](crislymaria21@gmail.com)
