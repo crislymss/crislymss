@@ -20,8 +20,10 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  alt="Logo Python" style="width: 50px; height: 40px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="Logo Python" style="width: 50px; height: 40px;"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="Logo Python" style="width: 50px; height: 40px;">
-   
-          
+
+
+
+![snake gif](https://github.com/crisly/crisly/blob/output/github-contribution-grid-snake.svg)
    
           
           
