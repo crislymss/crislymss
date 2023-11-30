@@ -8,9 +8,17 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crisly-maria-015600267/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/_crisly_)
 
-![Crisly GitHub stats](https://github-readme-stats.vercel.app/api?username=crisly&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=crisly&show_icons=true&theme=radical" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisly&layout=compact&theme=radical&show_icons=true" />
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisly&layout=compact&theme=radical&show_icons=true)
 
 
 ### Tecnologias usadas
