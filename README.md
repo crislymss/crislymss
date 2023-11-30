@@ -20,6 +20,8 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  alt="Logo Python" style="width: 50px; height: 40px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="Logo Python" style="width: 50px; height: 40px;"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt="Logo Python" style="width: 50px; height: 40px;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Logo Python" style="width: 50px; height: 40px;" >
+          
 
 
 
@@ -31,7 +33,7 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
     
 </div>
 
-          
+
 
 
 
