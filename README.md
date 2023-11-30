@@ -10,7 +10,7 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
 
 ![Crisly GitHub stats](https://github-readme-stats.vercel.app/api?username=crislymss&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crislymss&layout=compact&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisly&layout=compact&theme=radical&show_icons=true)
 
 
 ### Tecnologias usadas
