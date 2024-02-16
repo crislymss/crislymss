@@ -11,10 +11,10 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=crisly&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=crislymss&show_icons=true&theme=radical" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisly&layout=compact&theme=radical&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislymss&layout=compact&theme=radical&show_icons=true" />
     </td>
   </tr>
 </table>
