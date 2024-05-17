@@ -31,7 +31,9 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="Logo css" style="width: 50px; height: 40px;" >
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="Logo Git" style="width: 50px; height: 40px;" >
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo Git" style="width: 50px; height: 40px;" >
-   <i class="devicon-django-plain"></i>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo Git" style="width: 50px; height: 40px;" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  alt="Logo Git" style="width: 50px; height: 40px;" />
+          
 
 
    <div align="center">
