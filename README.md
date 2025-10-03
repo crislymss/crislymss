@@ -35,7 +35,7 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" >
 
           
-
+<img src="https://raw.githubusercontent.com/crislymss/crislymss/output/snake.svg" alt="Snake animation" />
 
 
           
