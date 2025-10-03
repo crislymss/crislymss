@@ -37,12 +37,6 @@ Atualmente Acadêmica do Curso de Sistemas de Informação (UFPI).
           
 
 
-   <div align="center">
-
-  ![Snake animation](https://github.com/crislymss/crislymss/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-        
 
           
 
